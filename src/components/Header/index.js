@@ -23,7 +23,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          Gatsby
+          kBoard co.
         </Link>
       </h1>
     </div>
