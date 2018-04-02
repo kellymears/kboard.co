@@ -3,12 +3,13 @@ import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 
 import Header from '../components/Header'
+import 'bootstrap/dist/css/bootstrap.css'
 import './index.css'
 
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="kboard.co"
+      title="keyboards.gg"
       meta={[
         { name: 'description', content: 'Custom keyboards for stand-up people.' },
         { name: 'keywords', content: 'keyboard, mechanical, custom, shop, prebuilt' },

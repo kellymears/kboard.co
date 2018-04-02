@@ -23,7 +23,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          kBoard co.
+          keyboards.gg
         </Link>
       </h1>
     </div>
